@@ -9,9 +9,9 @@ This repository currently contains the following projects and utilities:
 **File:** `Lunar_lander_agent.ipynb`
 
 ### 2. Huggy the Dog – Reinforcement Learning
-**File:** `Huggy_the_dog.ipynb`
+**Folder:** `02_Huggy_Dog`
 
-A Google Colab notebook demonstrating the training of a Reinforcement Learning agent training using the Lunar Lander and Huggy the Dog environment.
+A Google Colab notebook demonstrating the training of a Reinforcement Learning agent using the Lunar Lander and Huggy the Dog environment.
 
 ### 3. Download Trained Model
 **File:** `Download_trained_model.py`
